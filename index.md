@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 # ДПП СВФУ «Разработка приложений на языке Python»
