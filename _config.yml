@@ -10,7 +10,7 @@ baseurl: ""
 url: "https://dpp-svfu-python.github.io"
 
 # Готовая тема оформления https://github.com/jekyll/minima
-theme: minima
+# theme: minima
 
 # В теме minima доступны 4 типа страниц (layout):
 # * base - базовый, 
@@ -18,8 +18,8 @@ theme: minima
 # * page - страницы, которые не пост блога
 # * post - посты блога
 
-plugins:
-  - jekyll-feed
+# plugins:
+  # - jekyll-feed
 
 # Настройки темы
 lang: ru
