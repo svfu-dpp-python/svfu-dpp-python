@@ -4,10 +4,10 @@
 title: Курс ДПП «Разработка приложений на языке Python»
 
 # Если сайт расположен в подкаталоге, например /blog/<сайт>
-baseurl: ""
+# baseurl: ""
 
 # Адрес сайта
-url: "https://dpp-svfu-python.github.io"
+# url: "https://dpp-svfu-python.github.io"
 
 # Готовая тема оформления https://github.com/jekyll/minima
 # theme: minima
@@ -32,8 +32,8 @@ url: "https://dpp-svfu-python.github.io"
 # github_username:  jekyll
 
 # Описание в нижней части
-description: >- # this means to ignore newlines until "baseurl:"
-  Сайт курса ДПП «Разработка приложений на языке программирования Python»
+# description: >- # this means to ignore newlines until "baseurl:"
+  # Сайт курса ДПП «Разработка приложений на языке программирования Python»
 
 exclude:
   - .sass-cache/
